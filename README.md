@@ -24,7 +24,7 @@
 ## 📁 项目结构
 
 ```
-LLM-Chatbot-RAG-Demo/
+LLM-Chatbot/
 ├── chat.py              # 终端版多轮对话
 ├── app.py               # Streamlit 网页版（含聊天 + RAG）
 ├── rag_demo.py          # RAG 终端版（PDF 问答）
