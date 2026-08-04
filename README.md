@@ -26,7 +26,7 @@
 
 ### 自由聊天模式
 
-<img src="chat_ui.png" width="700">
+<img src="chat_ui.png" width="800">
 
 ---
 
