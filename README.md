@@ -60,7 +60,7 @@ LLM-Chatbot/
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/FF-maker046/LLM-Chatbot-RAG-Demo.git
+git clone https://github.com/FF-maker046/LLM-Chatbot.git
 cd LLM-Chatbot
 
 # 2. 安装依赖
