@@ -51,8 +51,8 @@ LLM-Chatbot/
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/LLM-Chatbot-RAG-Demo.git
-cd LLM-Chatbot-RAG-Demo
+git clone https://github.com/FF-maker046/LLM-Chatbot-RAG-Demo.git
+cd LLM-Chatbot
 
 # 2. 安装依赖
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
